@@ -1,0 +1,17 @@
+# Web sunucusu için gerekli paketler
+flask==2.0.1
+flask-cors==3.0.10
+
+# Görüntü işleme için gerekli paketler
+opencv-python==4.5.3.56
+Pillow==8.3.1
+numpy==1.21.2
+
+# Makine öğrenimi için gerekli paketler
+tensorflow==2.7.0
+scikit-image==0.18.3
+
+# Yardımcı araçlar
+tqdm==4.62.2
+h5py==3.4.0
+matplotlib==3.4.3
